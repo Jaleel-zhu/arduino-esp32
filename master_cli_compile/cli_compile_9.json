@@ -1,590 +1,795 @@
 {"boards": [
-{ "board": "espressif:esp32:esp32s3:PSRAM=opi,USBMode=default,PartitionScheme=huge_app",
-                "target": "esp32s3",
+{ "board": "espressif:esp32:esp32p4",
+                "target": "esp32p4",
                 "sketches": [
-{"name": "SPI/examples/SPI_Multiple_Buses",
-                    "sizes": [{
-                            "flash_bytes": 298661,
-                            "flash_percentage": 9,
-                            "ram_bytes": 18680,
-                            "ram_percentage": 5
-                            }]
-                    },
-{"name": "SPIFFS/examples/SPIFFS_Test",
-                    "sizes": [{
-                            "flash_bytes": 319261,
-                            "flash_percentage": 10,
-                            "ram_bytes": 18632,
-                            "ram_percentage": 5
-                            }]
-                    },
-{"name": "SPIFFS/examples/SPIFFS_time",
-                    "sizes": [{
-                            "flash_bytes": 907069,
-                            "flash_percentage": 28,
-                            "ram_bytes": 41752,
-                            "ram_percentage": 12
-                            }]
-                    },
-{"name": "SimpleBLE/examples/SimpleBleDevice",
-                    "sizes": [{
-                            "flash_bytes": 893769,
-                            "flash_percentage": 28,
-                            "ram_bytes": 44180,
-                            "ram_percentage": 13
-                            }]
-                    },
-{"name": "TFLiteMicro/examples/hello_world",
-                    "sizes": [{
-                            "flash_bytes": 305517,
-                            "flash_percentage": 9,
-                            "ram_bytes": 20424,
-                            "ram_percentage": 6
-                            }]
-                    },
-{"name": "Ticker/examples/Blinker",
-                    "sizes": [{
-                            "flash_bytes": 295029,
-                            "flash_percentage": 9,
-                            "ram_bytes": 18688,
-                            "ram_percentage": 5
-                            }]
-                    },
-{"name": "Ticker/examples/TickerBasic",
-                    "sizes": [{
-                            "flash_bytes": 294829,
-                            "flash_percentage": 9,
-                            "ram_bytes": 18632,
-                            "ram_percentage": 5
-                            }]
-                    },
-{"name": "Ticker/examples/TickerParameter",
-                    "sizes": [{
-                            "flash_bytes": 294753,
-                            "flash_percentage": 9,
-                            "ram_bytes": 18664,
-                            "ram_percentage": 5
-                            }]
-                    },
-{"name": "USB/examples/CompositeDevice",
-                    "sizes": [{
-                            "flash_bytes": 389569,
-                            "flash_percentage": 12,
-                            "ram_bytes": 31344,
-                            "ram_percentage": 9
-                            }]
-                    },
-{"name": "USB/examples/ConsumerControl",
-                    "sizes": [{
-                            "flash_bytes": 335493,
-                            "flash_percentage": 10,
-                            "ram_bytes": 30912,
-                            "ram_percentage": 9
-                            }]
-                    },
 {"name": "USB/examples/CustomHIDDevice",
                     "sizes": [{
-                            "flash_bytes": 347453,
-                            "flash_percentage": 11,
-                            "ram_bytes": 30920,
-                            "ram_percentage": 9
+                            "flash_bytes": 367225,
+                            "flash_percentage": 28,
+                            "ram_bytes": 49304,
+                            "ram_percentage": 15
                             }]
                     },
 {"name": "USB/examples/FirmwareMSC",
                     "sizes": [{
-                            "flash_bytes": 373625,
-                            "flash_percentage": 11,
-                            "ram_bytes": 30912,
-                            "ram_percentage": 9
+                            "flash_bytes": 392967,
+                            "flash_percentage": 29,
+                            "ram_bytes": 49280,
+                            "ram_percentage": 15
                             }]
                     },
 {"name": "USB/examples/Gamepad",
                     "sizes": [{
-                            "flash_bytes": 347773,
-                            "flash_percentage": 11,
-                            "ram_bytes": 30928,
-                            "ram_percentage": 9
+                            "flash_bytes": 367563,
+                            "flash_percentage": 28,
+                            "ram_bytes": 49304,
+                            "ram_percentage": 15
                             }]
                     },
 {"name": "USB/examples/HIDVendor",
                     "sizes": [{
-                            "flash_bytes": 349729,
-                            "flash_percentage": 11,
-                            "ram_bytes": 31000,
-                            "ram_percentage": 9
-                            }]
-                    }
-]
-},
-{ "board": "espressif:esp32:esp32s2:PSRAM=enabled,PartitionScheme=huge_app",
-                "target": "esp32s2",
-                "sketches": [
-{"name": "TFLiteMicro/examples/hello_world",
-                    "sizes": [{
-                            "flash_bytes": 274750,
-                            "flash_percentage": 8,
-                            "ram_bytes": 15896,
-                            "ram_percentage": 4
-                            }]
-                    },
-{"name": "Ticker/examples/Blinker",
-                    "sizes": [{
-                            "flash_bytes": 262362,
-                            "flash_percentage": 8,
-                            "ram_bytes": 14208,
-                            "ram_percentage": 4
-                            }]
-                    },
-{"name": "Ticker/examples/TickerBasic",
-                    "sizes": [{
-                            "flash_bytes": 262154,
-                            "flash_percentage": 8,
-                            "ram_bytes": 14152,
-                            "ram_percentage": 4
-                            }]
-                    },
-{"name": "Ticker/examples/TickerParameter",
-                    "sizes": [{
-                            "flash_bytes": 262094,
-                            "flash_percentage": 8,
-                            "ram_bytes": 14192,
-                            "ram_percentage": 4
-                            }]
-                    },
-{"name": "USB/examples/CompositeDevice",
-                    "sizes": [{
-                            "flash_bytes": 339766,
-                            "flash_percentage": 10,
-                            "ram_bytes": 26656,
-                            "ram_percentage": 8
-                            }]
-                    },
-{"name": "USB/examples/ConsumerControl",
-                    "sizes": [{
-                            "flash_bytes": 285658,
-                            "flash_percentage": 9,
-                            "ram_bytes": 26224,
-                            "ram_percentage": 8
-                            }]
-                    },
-{"name": "USB/examples/CustomHIDDevice",
-                    "sizes": [{
-                            "flash_bytes": 297830,
-                            "flash_percentage": 9,
-                            "ram_bytes": 26240,
-                            "ram_percentage": 8
-                            }]
-                    },
-{"name": "USB/examples/FirmwareMSC",
-                    "sizes": [{
-                            "flash_bytes": 320518,
-                            "flash_percentage": 10,
-                            "ram_bytes": 25904,
-                            "ram_percentage": 7
-                            }]
-                    },
-{"name": "USB/examples/Gamepad",
-                    "sizes": [{
-                            "flash_bytes": 298158,
-                            "flash_percentage": 9,
-                            "ram_bytes": 26248,
-                            "ram_percentage": 8
-                            }]
-                    },
-{"name": "USB/examples/HIDVendor",
-                    "sizes": [{
-                            "flash_bytes": 300222,
-                            "flash_percentage": 9,
-                            "ram_bytes": 26320,
-                            "ram_percentage": 8
+                            "flash_bytes": 371035,
+                            "flash_percentage": 28,
+                            "ram_bytes": 49368,
+                            "ram_percentage": 15
                             }]
                     },
 {"name": "USB/examples/Keyboard/KeyboardLogout",
                     "sizes": [{
-                            "flash_bytes": 286746,
-                            "flash_percentage": 9,
-                            "ram_bytes": 26248,
-                            "ram_percentage": 8
+                            "flash_bytes": 351921,
+                            "flash_percentage": 26,
+                            "ram_bytes": 49308,
+                            "ram_percentage": 15
                             }]
                     },
 {"name": "USB/examples/Keyboard/KeyboardMessage",
                     "sizes": [{
-                            "flash_bytes": 286894,
-                            "flash_percentage": 9,
-                            "ram_bytes": 26248,
-                            "ram_percentage": 8
+                            "flash_bytes": 352273,
+                            "flash_percentage": 26,
+                            "ram_bytes": 49316,
+                            "ram_percentage": 15
+                            }]
+                    },
+{"name": "USB/examples/Keyboard/KeyboardReprogram",
+                    "sizes": [{
+                            "flash_bytes": 352465,
+                            "flash_percentage": 26,
+                            "ram_bytes": 49308,
+                            "ram_percentage": 15
+                            }]
+                    },
+{"name": "USB/examples/Keyboard/KeyboardSerial",
+                    "sizes": [{
+                            "flash_bytes": 364379,
+                            "flash_percentage": 27,
+                            "ram_bytes": 49304,
+                            "ram_percentage": 15
+                            }]
+                    },
+{"name": "USB/examples/KeyboardAndMouseControl",
+                    "sizes": [{
+                            "flash_bytes": 368973,
+                            "flash_percentage": 28,
+                            "ram_bytes": 49320,
+                            "ram_percentage": 15
+                            }]
+                    },
+{"name": "USB/examples/MIDI/MidiController",
+                    "sizes": [{
+                            "flash_bytes": 371851,
+                            "flash_percentage": 28,
+                            "ram_bytes": 49392,
+                            "ram_percentage": 15
+                            }]
+                    },
+{"name": "USB/examples/MIDI/MidiInterface",
+                    "sizes": [{
+                            "flash_bytes": 362265,
+                            "flash_percentage": 27,
+                            "ram_bytes": 49264,
+                            "ram_percentage": 15
+                            }]
+                    },
+{"name": "USB/examples/MIDI/MidiMusicBox",
+                    "sizes": [{
+                            "flash_bytes": 366027,
+                            "flash_percentage": 27,
+                            "ram_bytes": 49288,
+                            "ram_percentage": 15
                             }]
                     }
 ]
 },
-{ "board": "espressif:esp32:esp32c3:PartitionScheme=huge_app",
-                "target": "esp32c3",
+{ "board": "espressif:esp32:esp32s3",
+                "target": "esp32s3",
                 "sketches": [
-{"name": "Preferences/examples/StartCounter",
+{"name": "SD_MMC/examples/SD2USBMSC",
                     "sizes": [{
-                            "flash_bytes": 262544,
-                            "flash_percentage": 8,
-                            "ram_bytes": 11688,
-                            "ram_percentage": 3
-                            }]
-                    },
-{"name": "RainMaker/examples/RMakerCustom",
-                    "sizes": [{
-                            "flash_bytes": 1984460,
-                            "flash_percentage": 63,
-                            "ram_bytes": 58060,
-                            "ram_percentage": 17
-                            }]
-                    },
-{"name": "RainMaker/examples/RMakerCustomAirCooler",
-                    "sizes": [{
-                            "flash_bytes": 1969300,
-                            "flash_percentage": 62,
-                            "ram_bytes": 58084,
-                            "ram_percentage": 17
-                            }]
-                    },
-{"name": "RainMaker/examples/RMakerSonoffDualR3",
-                    "sizes": [{
-                            "flash_bytes": 1986718,
-                            "flash_percentage": 63,
-                            "ram_bytes": 58324,
-                            "ram_percentage": 17
-                            }]
-                    },
-{"name": "RainMaker/examples/RMakerSwitch",
-                    "sizes": [{
-                            "flash_bytes": 2008474,
-                            "flash_percentage": 63,
-                            "ram_bytes": 59468,
-                            "ram_percentage": 18
-                            }]
-                    },
-{"name": "SD/examples/SD_Test",
-                    "sizes": [{
-                            "flash_bytes": 337316,
-                            "flash_percentage": 10,
-                            "ram_bytes": 12920,
-                            "ram_percentage": 3
-                            }]
-                    },
-{"name": "SD/examples/SD_time",
-                    "sizes": [{
-                            "flash_bytes": 975350,
-                            "flash_percentage": 31,
-                            "ram_bytes": 35476,
-                            "ram_percentage": 10
-                            }]
-                    },
-{"name": "SPIFFS/examples/SPIFFS_Test",
-                    "sizes": [{
-                            "flash_bytes": 295446,
-                            "flash_percentage": 9,
-                            "ram_bytes": 12200,
-                            "ram_percentage": 3
-                            }]
-                    },
-{"name": "SPIFFS/examples/SPIFFS_time",
-                    "sizes": [{
-                            "flash_bytes": 949822,
-                            "flash_percentage": 30,
-                            "ram_bytes": 34908,
-                            "ram_percentage": 10
-                            }]
-                    },
-{"name": "TFLiteMicro/examples/hello_world",
-                    "sizes": [{
-                            "flash_bytes": 278962,
-                            "flash_percentage": 8,
-                            "ram_bytes": 13952,
-                            "ram_percentage": 4
-                            }]
-                    },
-{"name": "Ticker/examples/Blinker",
-                    "sizes": [{
-                            "flash_bytes": 264792,
-                            "flash_percentage": 8,
-                            "ram_bytes": 12232,
-                            "ram_percentage": 3
-                            }]
-                    },
-{"name": "Ticker/examples/TickerBasic",
-                    "sizes": [{
-                            "flash_bytes": 264680,
-                            "flash_percentage": 8,
-                            "ram_bytes": 12176,
-                            "ram_percentage": 3
-                            }]
-                    }
-]
-},
-{ "board": "espressif:esp32:esp32c6:PartitionScheme=huge_app",
-                "target": "esp32c6",
-                "sketches": [
-{"name": "OpenThread/examples/SimpleThreadNetwork/LeaderNode",
-                    "sizes": [{
-                            "flash_bytes": 943934,
-                            "flash_percentage": 30,
-                            "ram_bytes": 48952,
-                            "ram_percentage": 14
-                            }]
-                    },
-{"name": "OpenThread/examples/SimpleThreadNetwork/RouterNode",
-                    "sizes": [{
-                            "flash_bytes": 943990,
-                            "flash_percentage": 30,
-                            "ram_bytes": 48952,
-                            "ram_percentage": 14
-                            }]
-                    },
-{"name": "OpenThread/examples/ThreadScan",
-                    "sizes": [{
-                            "flash_bytes": 944472,
-                            "flash_percentage": 30,
-                            "ram_bytes": 48952,
-                            "ram_percentage": 14
-                            }]
-                    },
-{"name": "OpenThread/examples/onReceive",
-                    "sizes": [{
-                            "flash_bytes": 944134,
-                            "flash_percentage": 30,
-                            "ram_bytes": 48952,
-                            "ram_percentage": 14
-                            }]
-                    },
-{"name": "PPP/examples/PPP_Basic",
-                    "sizes": [{
-                            "flash_bytes": 460024,
-                            "flash_percentage": 14,
-                            "ram_bytes": 17728,
-                            "ram_percentage": 5
-                            }]
-                    },
-{"name": "Preferences/examples/Prefs2Struct",
-                    "sizes": [{
-                            "flash_bytes": 218888,
-                            "flash_percentage": 6,
-                            "ram_bytes": 12552,
-                            "ram_percentage": 3
-                            }]
-                    },
-{"name": "Preferences/examples/StartCounter",
-                    "sizes": [{
-                            "flash_bytes": 218718,
-                            "flash_percentage": 6,
-                            "ram_bytes": 12552,
-                            "ram_percentage": 3
-                            }]
-                    },
-{"name": "SD/examples/SD_Test",
-                    "sizes": [{
-                            "flash_bytes": 284890,
-                            "flash_percentage": 9,
-                            "ram_bytes": 13828,
-                            "ram_percentage": 4
-                            }]
-                    },
-{"name": "SD/examples/SD_time",
-                    "sizes": [{
-                            "flash_bytes": 951278,
-                            "flash_percentage": 30,
-                            "ram_bytes": 39960,
-                            "ram_percentage": 12
-                            }]
-                    },
-{"name": "SPIFFS/examples/SPIFFS_Test",
-                    "sizes": [{
-                            "flash_bytes": 253532,
-                            "flash_percentage": 8,
-                            "ram_bytes": 13104,
-                            "ram_percentage": 3
-                            }]
-                    },
-{"name": "SPIFFS/examples/SPIFFS_time",
-                    "sizes": [{
-                            "flash_bytes": 925482,
-                            "flash_percentage": 29,
-                            "ram_bytes": 39400,
-                            "ram_percentage": 12
-                            }]
-                    },
-{"name": "SimpleBLE/examples/SimpleBleDevice",
-                    "sizes": [{
-                            "flash_bytes": 1074572,
+                            "flash_bytes": 447530,
                             "flash_percentage": 34,
-                            "ram_bytes": 36972,
-                            "ram_percentage": 11
-                            }]
-                    }
-]
-},
-{ "board": "espressif:esp32:esp32h2:PartitionScheme=huge_app",
-                "target": "esp32h2",
-                "sketches": [
-{"name": "ESP_I2S/examples/ES8388_loopback",
-                    "sizes": [{
-                            "flash_bytes": 325202,
-                            "flash_percentage": 10,
-                            "ram_bytes": 13548,
-                            "ram_percentage": 4
-                            }]
-                    },
-{"name": "ESP_I2S/examples/Simple_tone",
-                    "sizes": [{
-                            "flash_bytes": 279892,
-                            "flash_percentage": 8,
-                            "ram_bytes": 12844,
-                            "ram_percentage": 3
-                            }]
-                    },
-{"name": "Ethernet/examples/ETH_W5500_Arduino_SPI",
-                    "sizes": [{
-                            "flash_bytes": 540540,
-                            "flash_percentage": 17,
-                            "ram_bytes": 18168,
-                            "ram_percentage": 5
-                            }]
-                    },
-{"name": "Ethernet/examples/ETH_W5500_IDF_SPI",
-                    "sizes": [{
-                            "flash_bytes": 538046,
-                            "flash_percentage": 17,
-                            "ram_bytes": 18152,
-                            "ram_percentage": 5
-                            }]
-                    },
-{"name": "FFat/examples/FFat_Test",
-                    "sizes": [{
-                            "flash_bytes": 318210,
-                            "flash_percentage": 10,
-                            "ram_bytes": 13524,
-                            "ram_percentage": 4
-                            }]
-                    },
-{"name": "LittleFS/examples/LITTLEFS_test",
-                    "sizes": [{
-                            "flash_bytes": 305376,
-                            "flash_percentage": 9,
-                            "ram_bytes": 13284,
-                            "ram_percentage": 4
-                            }]
-                    },
-{"name": "OpenThread/examples/COAP/coap_lamp",
-                    "sizes": [{
-                            "flash_bytes": 993002,
-                            "flash_percentage": 31,
-                            "ram_bytes": 48804,
-                            "ram_percentage": 14
-                            }]
-                    }
-]
-},
-{ "board": "espressif:esp32:esp32:PSRAM=enabled,PartitionScheme=huge_app",
-                "target": "esp32",
-                "sketches": [
-{"name": "NetworkClientSecure/examples/WiFiClientShowPeerCredentials",
-                    "sizes": [{
-                            "flash_bytes": 1037605,
-                            "flash_percentage": 32,
-                            "ram_bytes": 46864,
-                            "ram_percentage": 14
-                            }]
-                    },
-{"name": "NetworkClientSecure/examples/WiFiClientTrustOnFirstUse",
-                    "sizes": [{
-                            "flash_bytes": 1006693,
-                            "flash_percentage": 32,
-                            "ram_bytes": 45516,
-                            "ram_percentage": 13
-                            }]
-                    },
-{"name": "PPP/examples/PPP_Basic",
-                    "sizes": [{
-                            "flash_bytes": 527245,
-                            "flash_percentage": 16,
-                            "ram_bytes": 24864,
-                            "ram_percentage": 7
-                            }]
-                    },
-{"name": "Preferences/examples/Prefs2Struct",
-                    "sizes": [{
-                            "flash_bytes": 297425,
-                            "flash_percentage": 9,
-                            "ram_bytes": 20280,
-                            "ram_percentage": 6
-                            }]
-                    },
-{"name": "Preferences/examples/StartCounter",
-                    "sizes": [{
-                            "flash_bytes": 298225,
-                            "flash_percentage": 9,
-                            "ram_bytes": 20288,
-                            "ram_percentage": 6
-                            }]
-                    },
-{"name": "RainMaker/examples/RMakerCustom",
-                    "sizes": [{
-                            "flash_bytes": 2059061,
-                            "flash_percentage": 65,
-                            "ram_bytes": 62480,
-                            "ram_percentage": 19
-                            }]
-                    },
-{"name": "RainMaker/examples/RMakerCustomAirCooler",
-                    "sizes": [{
-                            "flash_bytes": 2036633,
-                            "flash_percentage": 64,
-                            "ram_bytes": 62576,
-                            "ram_percentage": 19
-                            }]
-                    },
-{"name": "RainMaker/examples/RMakerSonoffDualR3",
-                    "sizes": [{
-                            "flash_bytes": 2062525,
-                            "flash_percentage": 65,
-                            "ram_bytes": 62960,
-                            "ram_percentage": 19
-                            }]
-                    },
-{"name": "RainMaker/examples/RMakerSwitch",
-                    "sizes": [{
-                            "flash_bytes": 2070829,
-                            "flash_percentage": 65,
-                            "ram_bytes": 62560,
-                            "ram_percentage": 19
-                            }]
-                    },
-{"name": "SD/examples/SD_Test",
-                    "sizes": [{
-                            "flash_bytes": 353549,
-                            "flash_percentage": 11,
-                            "ram_bytes": 21352,
-                            "ram_percentage": 6
-                            }]
-                    },
-{"name": "SD/examples/SD_time",
-                    "sizes": [{
-                            "flash_bytes": 967941,
-                            "flash_percentage": 30,
-                            "ram_bytes": 45572,
-                            "ram_percentage": 13
+                            "ram_bytes": 40884,
+                            "ram_percentage": 12
                             }]
                     },
 {"name": "SD_MMC/examples/SDMMC_Test",
                     "sizes": [{
-                            "flash_bytes": 363953,
-                            "flash_percentage": 11,
-                            "ram_bytes": 21384,
+                            "flash_bytes": 386194,
+                            "flash_percentage": 29,
+                            "ram_bytes": 21344,
                             "ram_percentage": 6
                             }]
                     },
 {"name": "SD_MMC/examples/SDMMC_time",
                     "sizes": [{
-                            "flash_bytes": 982033,
-                            "flash_percentage": 31,
-                            "ram_bytes": 45700,
+                            "flash_bytes": 944430,
+                            "flash_percentage": 72,
+                            "ram_bytes": 46068,
+                            "ram_percentage": 14
+                            }]
+                    },
+{"name": "SPI/examples/SPI_Multiple_Buses",
+                    "sizes": [{
+                            "flash_bytes": 322210,
+                            "flash_percentage": 24,
+                            "ram_bytes": 21092,
+                            "ram_percentage": 6
+                            }]
+                    },
+{"name": "SPIFFS/examples/SPIFFS_Test",
+                    "sizes": [{
+                            "flash_bytes": 339074,
+                            "flash_percentage": 25,
+                            "ram_bytes": 20848,
+                            "ram_percentage": 6
+                            }]
+                    },
+{"name": "SPIFFS/examples/SPIFFS_time",
+                    "sizes": [{
+                            "flash_bytes": 908514,
+                            "flash_percentage": 69,
+                            "ram_bytes": 45604,
                             "ram_percentage": 13
+                            }]
+                    },
+{"name": "SimpleBLE/examples/SimpleBleDevice",
+                    "sizes": [{
+                            "flash_bytes": 881386,
+                            "flash_percentage": 67,
+                            "ram_bytes": 48324,
+                            "ram_percentage": 14
+                            }]
+                    },
+{"name": "TFLiteMicro/examples/hello_world",
+                    "sizes": [{
+                            "flash_bytes": 324998,
+                            "flash_percentage": 24,
+                            "ram_bytes": 22632,
+                            "ram_percentage": 6
+                            }]
+                    },
+{"name": "Ticker/examples/Blinker",
+                    "sizes": [{
+                            "flash_bytes": 318570,
+                            "flash_percentage": 24,
+                            "ram_bytes": 21084,
+                            "ram_percentage": 6
+                            }]
+                    },
+{"name": "Ticker/examples/TickerBasic",
+                    "sizes": [{
+                            "flash_bytes": 318378,
+                            "flash_percentage": 24,
+                            "ram_bytes": 21028,
+                            "ram_percentage": 6
+                            }]
+                    },
+{"name": "Ticker/examples/TickerParameter",
+                    "sizes": [{
+                            "flash_bytes": 318306,
+                            "flash_percentage": 24,
+                            "ram_bytes": 21060,
+                            "ram_percentage": 6
+                            }]
+                    },
+{"name": "USB/examples/CompositeDevice",
+                    "sizes": [{
+                            "flash_bytes": 416642,
+                            "flash_percentage": 31,
+                            "ram_bytes": 40884,
+                            "ram_percentage": 12
+                            }]
+                    },
+{"name": "USB/examples/ConsumerControl",
+                    "sizes": [{
+                            "flash_bytes": 362198,
+                            "flash_percentage": 27,
+                            "ram_bytes": 40420,
+                            "ram_percentage": 12
+                            }]
+                    },
+{"name": "USB/examples/CustomHIDDevice",
+                    "sizes": [{
+                            "flash_bytes": 375114,
+                            "flash_percentage": 28,
+                            "ram_bytes": 40436,
+                            "ram_percentage": 12
+                            }]
+                    },
+{"name": "USB/examples/FirmwareMSC",
+                    "sizes": [{
+                            "flash_bytes": 400410,
+                            "flash_percentage": 30,
+                            "ram_bytes": 40436,
+                            "ram_percentage": 12
+                            }]
+                    },
+{"name": "USB/examples/Gamepad",
+                    "sizes": [{
+                            "flash_bytes": 375458,
+                            "flash_percentage": 28,
+                            "ram_bytes": 40444,
+                            "ram_percentage": 12
+                            }]
+                    }
+]
+},
+{ "board": "espressif:esp32:esp32s2",
+                "target": "esp32s2",
+                "sketches": [
+{"name": "SPI/examples/SPI_Multiple_Buses",
+                    "sizes": [{
+                            "flash_bytes": 280049,
+                            "flash_percentage": 21,
+                            "ram_bytes": 16056,
+                            "ram_percentage": 4
+                            }]
+                    },
+{"name": "SPIFFS/examples/SPIFFS_Test",
+                    "sizes": [{
+                            "flash_bytes": 303721,
+                            "flash_percentage": 23,
+                            "ram_bytes": 15876,
+                            "ram_percentage": 4
+                            }]
+                    },
+{"name": "SPIFFS/examples/SPIFFS_time",
+                    "sizes": [{
+                            "flash_bytes": 878937,
+                            "flash_percentage": 67,
+                            "ram_bytes": 40816,
+                            "ram_percentage": 12
+                            }]
+                    },
+{"name": "TFLiteMicro/examples/hello_world",
+                    "sizes": [{
+                            "flash_bytes": 288381,
+                            "flash_percentage": 22,
+                            "ram_bytes": 17636,
+                            "ram_percentage": 5
+                            }]
+                    },
+{"name": "Ticker/examples/Blinker",
+                    "sizes": [{
+                            "flash_bytes": 279749,
+                            "flash_percentage": 21,
+                            "ram_bytes": 16096,
+                            "ram_percentage": 4
+                            }]
+                    },
+{"name": "Ticker/examples/TickerBasic",
+                    "sizes": [{
+                            "flash_bytes": 279553,
+                            "flash_percentage": 21,
+                            "ram_bytes": 16040,
+                            "ram_percentage": 4
+                            }]
+                    },
+{"name": "Ticker/examples/TickerParameter",
+                    "sizes": [{
+                            "flash_bytes": 279497,
+                            "flash_percentage": 21,
+                            "ram_bytes": 16080,
+                            "ram_percentage": 4
+                            }]
+                    },
+{"name": "USB/examples/CompositeDevice",
+                    "sizes": [{
+                            "flash_bytes": 356913,
+                            "flash_percentage": 27,
+                            "ram_bytes": 35588,
+                            "ram_percentage": 10
+                            }]
+                    },
+{"name": "USB/examples/ConsumerControl",
+                    "sizes": [{
+                            "flash_bytes": 302757,
+                            "flash_percentage": 23,
+                            "ram_bytes": 35132,
+                            "ram_percentage": 10
+                            }]
+                    },
+{"name": "USB/examples/CustomHIDDevice",
+                    "sizes": [{
+                            "flash_bytes": 315905,
+                            "flash_percentage": 24,
+                            "ram_bytes": 35140,
+                            "ram_percentage": 10
+                            }]
+                    },
+{"name": "USB/examples/FirmwareMSC",
+                    "sizes": [{
+                            "flash_bytes": 336477,
+                            "flash_percentage": 25,
+                            "ram_bytes": 34780,
+                            "ram_percentage": 10
+                            }]
+                    },
+{"name": "USB/examples/Gamepad",
+                    "sizes": [{
+                            "flash_bytes": 316241,
+                            "flash_percentage": 24,
+                            "ram_bytes": 35148,
+                            "ram_percentage": 10
+                            }]
+                    },
+{"name": "USB/examples/HIDVendor",
+                    "sizes": [{
+                            "flash_bytes": 318281,
+                            "flash_percentage": 24,
+                            "ram_bytes": 35220,
+                            "ram_percentage": 10
+                            }]
+                    },
+{"name": "USB/examples/Keyboard/KeyboardLogout",
+                    "sizes": [{
+                            "flash_bytes": 303925,
+                            "flash_percentage": 23,
+                            "ram_bytes": 35164,
+                            "ram_percentage": 10
+                            }]
+                    }
+]
+},
+{ "board": "espressif:esp32:esp32c3",
+                "target": "esp32c3",
+                "sketches": [
+{"name": "NetworkClientSecure/examples/WiFiClientTrustOnFirstUse",
+                    "sizes": [{
+                            "flash_bytes": 1041316,
+                            "flash_percentage": 79,
+                            "ram_bytes": 36832,
+                            "ram_percentage": 11
+                            }]
+                    },
+{"name": "PPP/examples/PPP_Basic",
+                    "sizes": [{
+                            "flash_bytes": 552200,
+                            "flash_percentage": 42,
+                            "ram_bytes": 17536,
+                            "ram_percentage": 5
+                            }]
+                    },
+{"name": "PPP/examples/PPP_WIFI_BRIDGE",
+                    "sizes": [{
+                            "flash_bytes": 1012698,
+                            "flash_percentage": 77,
+                            "ram_bytes": 36048,
+                            "ram_percentage": 11
+                            }]
+                    },
+{"name": "Preferences/examples/Prefs2Struct",
+                    "sizes": [{
+                            "flash_bytes": 291294,
+                            "flash_percentage": 22,
+                            "ram_bytes": 11636,
+                            "ram_percentage": 3
+                            }]
+                    },
+{"name": "Preferences/examples/StartCounter",
+                    "sizes": [{
+                            "flash_bytes": 291028,
+                            "flash_percentage": 22,
+                            "ram_bytes": 11644,
+                            "ram_percentage": 3
+                            }]
+                    },
+{"name": "RainMaker/examples/RMakerCustom",
+                    "sizes": [{
+                            "flash_bytes": 2007940,
+                            "flash_percentage": 49,
+                            "ram_bytes": 62616,
+                            "ram_percentage": 19
+                            }]
+                    },
+{"name": "RainMaker/examples/RMakerCustomAirCooler",
+                    "sizes": [{
+                            "flash_bytes": 1994602,
+                            "flash_percentage": 49,
+                            "ram_bytes": 62728,
+                            "ram_percentage": 19
+                            }]
+                    },
+{"name": "RainMaker/examples/RMakerSonoffDualR3",
+                    "sizes": [{
+                            "flash_bytes": 2010192,
+                            "flash_percentage": 49,
+                            "ram_bytes": 62880,
+                            "ram_percentage": 19
+                            }]
+                    },
+{"name": "RainMaker/examples/RMakerSwitch",
+                    "sizes": [{
+                            "flash_bytes": 2021064,
+                            "flash_percentage": 50,
+                            "ram_bytes": 62704,
+                            "ram_percentage": 19
+                            }]
+                    },
+{"name": "SD/examples/SD_Test",
+                    "sizes": [{
+                            "flash_bytes": 372652,
+                            "flash_percentage": 9,
+                            "ram_bytes": 13608,
+                            "ram_percentage": 4
+                            }]
+                    },
+{"name": "SD/examples/SD_time",
+                    "sizes": [{
+                            "flash_bytes": 1010614,
+                            "flash_percentage": 77,
+                            "ram_bytes": 37384,
+                            "ram_percentage": 11
+                            }]
+                    },
+{"name": "SPI/examples/SPI_Multiple_Buses",
+                    "sizes": [{
+                            "flash_bytes": 296024,
+                            "flash_percentage": 22,
+                            "ram_bytes": 12896,
+                            "ram_percentage": 3
+                            }]
+                    },
+{"name": "SPIFFS/examples/SPIFFS_Test",
+                    "sizes": [{
+                            "flash_bytes": 324666,
+                            "flash_percentage": 24,
+                            "ram_bytes": 12156,
+                            "ram_percentage": 3
+                            }]
+                    },
+{"name": "SPIFFS/examples/SPIFFS_time",
+                    "sizes": [{
+                            "flash_bytes": 980852,
+                            "flash_percentage": 74,
+                            "ram_bytes": 36360,
+                            "ram_percentage": 11
+                            }]
+                    }
+]
+},
+{ "board": "espressif:esp32:esp32c6",
+                "target": "esp32c6",
+                "sketches": [
+{"name": "SD/examples/SD_Test",
+                    "sizes": [{
+                            "flash_bytes": 320023,
+                            "flash_percentage": 24,
+                            "ram_bytes": 14788,
+                            "ram_percentage": 4
+                            }]
+                    },
+{"name": "SD/examples/SD_time",
+                    "sizes": [{
+                            "flash_bytes": 1007923,
+                            "flash_percentage": 76,
+                            "ram_bytes": 43460,
+                            "ram_percentage": 13
+                            }]
+                    },
+{"name": "SPI/examples/SPI_Multiple_Buses",
+                    "sizes": [{
+                            "flash_bytes": 252765,
+                            "flash_percentage": 19,
+                            "ram_bytes": 14084,
+                            "ram_percentage": 4
+                            }]
+                    },
+{"name": "SPIFFS/examples/SPIFFS_Test",
+                    "sizes": [{
+                            "flash_bytes": 282799,
+                            "flash_percentage": 21,
+                            "ram_bytes": 13328,
+                            "ram_percentage": 4
+                            }]
+                    },
+{"name": "SPIFFS/examples/SPIFFS_time",
+                    "sizes": [{
+                            "flash_bytes": 978251,
+                            "flash_percentage": 74,
+                            "ram_bytes": 42452,
+                            "ram_percentage": 12
+                            }]
+                    },
+{"name": "SimpleBLE/examples/SimpleBleDevice",
+                    "sizes": [{
+                            "flash_bytes": 1038389,
+                            "flash_percentage": 79,
+                            "ram_bytes": 39256,
+                            "ram_percentage": 11
+                            }]
+                    },
+{"name": "TFLiteMicro/examples/hello_world",
+                    "sizes": [{
+                            "flash_bytes": 264333,
+                            "flash_percentage": 20,
+                            "ram_bytes": 15104,
+                            "ram_percentage": 4
+                            }]
+                    },
+{"name": "Ticker/examples/Blinker",
+                    "sizes": [{
+                            "flash_bytes": 249577,
+                            "flash_percentage": 19,
+                            "ram_bytes": 14100,
+                            "ram_percentage": 4
+                            }]
+                    },
+{"name": "Ticker/examples/TickerBasic",
+                    "sizes": [{
+                            "flash_bytes": 249359,
+                            "flash_percentage": 19,
+                            "ram_bytes": 14044,
+                            "ram_percentage": 4
+                            }]
+                    },
+{"name": "Ticker/examples/TickerParameter",
+                    "sizes": [{
+                            "flash_bytes": 249229,
+                            "flash_percentage": 19,
+                            "ram_bytes": 14092,
+                            "ram_percentage": 4
+                            }]
+                    },
+{"name": "Update/examples/AWS_S3_OTA_Update",
+                    "sizes": [{
+                            "flash_bytes": 971601,
+                            "flash_percentage": 74,
+                            "ram_bytes": 43484,
+                            "ram_percentage": 13
+                            }]
+                    },
+{"name": "Update/examples/HTTPS_OTA_Update",
+                    "sizes": [{
+                            "flash_bytes": 1090671,
+                            "flash_percentage": 83,
+                            "ram_bytes": 43172,
+                            "ram_percentage": 13
+                            }]
+                    },
+{"name": "Update/examples/HTTP_Client_AES_OTA_Update",
+                    "sizes": [{
+                            "flash_bytes": 1010349,
+                            "flash_percentage": 77,
+                            "ram_bytes": 43572,
+                            "ram_percentage": 13
+                            }]
+                    },
+{"name": "Update/examples/HTTP_Server_AES_OTA_Update",
+                    "sizes": [{
+                            "flash_bytes": 1051185,
+                            "flash_percentage": 80,
+                            "ram_bytes": 46244,
+                            "ram_percentage": 14
+                            }]
+                    },
+{"name": "Update/examples/OTAWebUpdater",
+                    "sizes": [{
+                            "flash_bytes": 1034205,
+                            "flash_percentage": 78,
+                            "ram_bytes": 46124,
+                            "ram_percentage": 14
+                            }]
+                    },
+{"name": "Update/examples/SD_Update",
+                    "sizes": [{
+                            "flash_bytes": 325651,
+                            "flash_percentage": 24,
+                            "ram_bytes": 14636,
+                            "ram_percentage": 4
+                            }]
+                    }
+]
+},
+{ "board": "espressif:esp32:esp32h2",
+                "target": "esp32h2",
+                "sketches": [
+{"name": "OpenThread/examples/COAP/coap_lamp",
+                    "sizes": [{
+                            "flash_bytes": 1109869,
+                            "flash_percentage": 84,
+                            "ram_bytes": 46948,
+                            "ram_percentage": 14
+                            }]
+                    },
+{"name": "OpenThread/examples/COAP/coap_switch",
+                    "sizes": [{
+                            "flash_bytes": 1109909,
+                            "flash_percentage": 84,
+                            "ram_bytes": 46912,
+                            "ram_percentage": 14
+                            }]
+                    },
+{"name": "OpenThread/examples/SimpleCLI",
+                    "sizes": [{
+                            "flash_bytes": 1087091,
+                            "flash_percentage": 82,
+                            "ram_bytes": 45588,
+                            "ram_percentage": 13
+                            }]
+                    },
+{"name": "OpenThread/examples/SimpleNode",
+                    "sizes": [{
+                            "flash_bytes": 1089051,
+                            "flash_percentage": 83,
+                            "ram_bytes": 45588,
+                            "ram_percentage": 13
+                            }]
+                    },
+{"name": "OpenThread/examples/SimpleThreadNetwork/ExtendedRouterNode",
+                    "sizes": [{
+                            "flash_bytes": 1090387,
+                            "flash_percentage": 83,
+                            "ram_bytes": 45596,
+                            "ram_percentage": 13
+                            }]
+                    },
+{"name": "OpenThread/examples/SimpleThreadNetwork/LeaderNode",
+                    "sizes": [{
+                            "flash_bytes": 1087765,
+                            "flash_percentage": 82,
+                            "ram_bytes": 45596,
+                            "ram_percentage": 13
+                            }]
+                    },
+{"name": "OpenThread/examples/SimpleThreadNetwork/RouterNode",
+                    "sizes": [{
+                            "flash_bytes": 1087829,
+                            "flash_percentage": 82,
+                            "ram_bytes": 45596,
+                            "ram_percentage": 13
+                            }]
+                    },
+{"name": "OpenThread/examples/ThreadScan",
+                    "sizes": [{
+                            "flash_bytes": 1087441,
+                            "flash_percentage": 82,
+                            "ram_bytes": 45588,
+                            "ram_percentage": 13
+                            }]
+                    }
+]
+},
+{ "board": "espressif:esp32:esp32",
+                "target": "esp32",
+                "sketches": [
+{"name": "NetworkClientSecure/examples/WiFiClientSecureEnterprise",
+                    "sizes": [{
+                            "flash_bytes": 1055274,
+                            "flash_percentage": 33,
+                            "ram_bytes": 48436,
+                            "ram_percentage": 14
+                            }]
+                    },
+{"name": "NetworkClientSecure/examples/WiFiClientSecureProtocolUpgrade",
+                    "sizes": [{
+                            "flash_bytes": 996786,
+                            "flash_percentage": 76,
+                            "ram_bytes": 46956,
+                            "ram_percentage": 14
+                            }]
+                    },
+{"name": "NetworkClientSecure/examples/WiFiClientShowPeerCredentials",
+                    "sizes": [{
+                            "flash_bytes": 1037038,
+                            "flash_percentage": 79,
+                            "ram_bytes": 48332,
+                            "ram_percentage": 14
+                            }]
+                    },
+{"name": "NetworkClientSecure/examples/WiFiClientTrustOnFirstUse",
+                    "sizes": [{
+                            "flash_bytes": 1010010,
+                            "flash_percentage": 77,
+                            "ram_bytes": 46996,
+                            "ram_percentage": 14
+                            }]
+                    },
+{"name": "PPP/examples/PPP_Basic",
+                    "sizes": [{
+                            "flash_bytes": 538406,
+                            "flash_percentage": 41,
+                            "ram_bytes": 25352,
+                            "ram_percentage": 7
+                            }]
+                    },
+{"name": "PPP/examples/PPP_WIFI_BRIDGE",
+                    "sizes": [{
+                            "flash_bytes": 968850,
+                            "flash_percentage": 73,
+                            "ram_bytes": 45260,
+                            "ram_percentage": 13
+                            }]
+                    },
+{"name": "Preferences/examples/Prefs2Struct",
+                    "sizes": [{
+                            "flash_bytes": 311946,
+                            "flash_percentage": 23,
+                            "ram_bytes": 20624,
+                            "ram_percentage": 6
+                            }]
+                    },
+{"name": "Preferences/examples/StartCounter",
+                    "sizes": [{
+                            "flash_bytes": 312782,
+                            "flash_percentage": 23,
+                            "ram_bytes": 20632,
+                            "ram_percentage": 6
+                            }]
+                    },
+{"name": "SD/examples/SD_Test",
+                    "sizes": [{
+                            "flash_bytes": 368302,
+                            "flash_percentage": 28,
+                            "ram_bytes": 21652,
+                            "ram_percentage": 6
+                            }]
+                    },
+{"name": "SD/examples/SD_time",
+                    "sizes": [{
+                            "flash_bytes": 965858,
+                            "flash_percentage": 73,
+                            "ram_bytes": 47028,
+                            "ram_percentage": 14
+                            }]
+                    },
+{"name": "SD_MMC/examples/SDMMC_Test",
+                    "sizes": [{
+                            "flash_bytes": 388326,
+                            "flash_percentage": 29,
+                            "ram_bytes": 21836,
+                            "ram_percentage": 6
+                            }]
+                    },
+{"name": "SD_MMC/examples/SDMMC_time",
+                    "sizes": [{
+                            "flash_bytes": 989602,
+                            "flash_percentage": 75,
+                            "ram_bytes": 47300,
+                            "ram_percentage": 14
+                            }]
+                    },
+{"name": "SPI/examples/SPI_Multiple_Buses",
+                    "sizes": [{
+                            "flash_bytes": 299210,
+                            "flash_percentage": 22,
+                            "ram_bytes": 20680,
+                            "ram_percentage": 6
+                            }]
+                    },
+{"name": "SPIFFS/examples/SPIFFS_Test",
+                    "sizes": [{
+                            "flash_bytes": 341630,
+                            "flash_percentage": 26,
+                            "ram_bytes": 21136,
+                            "ram_percentage": 6
+                            }]
+                    },
+{"name": "SPIFFS/examples/SPIFFS_time",
+                    "sizes": [{
+                            "flash_bytes": 953194,
+                            "flash_percentage": 72,
+                            "ram_bytes": 46796,
+                            "ram_percentage": 14
                             }]
                     }
 ]
