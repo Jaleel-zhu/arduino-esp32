@@ -262,7 +262,7 @@
                     },
 {"name": "AsyncUDP/examples/AsyncUDPServer",
                     "sizes": [{
-                            "flash_bytes": 825721,
+                            "flash_bytes": 825713,
                             "flash_percentage": 62,
                             "ram_bytes": 39408,
                             "ram_percentage": 12

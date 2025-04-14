@@ -209,7 +209,7 @@
                     },
 {"name": "WebServer/examples/HttpBasicAuthSHA1",
                     "sizes": [{
-                            "flash_bytes": 973030,
+                            "flash_bytes": 973014,
                             "flash_percentage": 74,
                             "ram_bytes": 50740,
                             "ram_percentage": 15
@@ -286,7 +286,7 @@
                     },
 {"name": "WebServer/examples/FSBrowser",
                     "sizes": [{
-                            "flash_bytes": 942181,
+                            "flash_bytes": 942173,
                             "flash_percentage": 71,
                             "ram_bytes": 43504,
                             "ram_percentage": 13
