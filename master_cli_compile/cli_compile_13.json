@@ -193,7 +193,7 @@
                     },
 {"name": "WiFi/examples/WiFiSmartConfig",
                     "sizes": [{
-                            "flash_bytes": 884530,
+                            "flash_bytes": 884546,
                             "flash_percentage": 67,
                             "ram_bytes": 44500,
                             "ram_percentage": 13
