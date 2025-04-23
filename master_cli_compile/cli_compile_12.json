@@ -193,7 +193,7 @@
                     },
 {"name": "WiFi/examples/WiFiAccessPoint",
                     "sizes": [{
-                            "flash_bytes": 890962,
+                            "flash_bytes": 890978,
                             "flash_percentage": 67,
                             "ram_bytes": 45820,
                             "ram_percentage": 13
@@ -326,7 +326,7 @@
                     },
 {"name": "WiFi/examples/SimpleWiFiServer",
                     "sizes": [{
-                            "flash_bytes": 855185,
+                            "flash_bytes": 855193,
                             "flash_percentage": 65,
                             "ram_bytes": 40964,
                             "ram_percentage": 12
