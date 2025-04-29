@@ -613,7 +613,7 @@
                     },
 {"name": "ESP32/examples/Serial/onReceiveExample",
                     "sizes": [{
-                            "flash_bytes": 284275,
+                            "flash_bytes": 284195,
                             "flash_percentage": 21,
                             "ram_bytes": 12788,
                             "ram_percentage": 3
