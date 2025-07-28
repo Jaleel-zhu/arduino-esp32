@@ -786,7 +786,7 @@
                     },
 {"name": "Zigbee/examples/Zigbee_Pressure_Flow_Sensor",
                     "sizes": [{
-                            "flash_bytes": 590199,
+                            "flash_bytes": 590207,
                             "flash_percentage": 45,
                             "ram_bytes": 28380,
                             "ram_percentage": 8
