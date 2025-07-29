@@ -427,7 +427,7 @@
                     },
 {"name": "SD/examples/SD_time",
                     "sizes": [{
-                            "flash_bytes": 920390,
+                            "flash_bytes": 920382,
                             "flash_percentage": 70,
                             "ram_bytes": 40216,
                             "ram_percentage": 12
@@ -451,7 +451,7 @@
                     },
 {"name": "SPIFFS/examples/SPIFFS_time",
                     "sizes": [{
-                            "flash_bytes": 893674,
+                            "flash_bytes": 893682,
                             "flash_percentage": 68,
                             "ram_bytes": 39996,
                             "ram_percentage": 12
