@@ -342,7 +342,7 @@
                     },
 {"name": "HTTPClient/examples/HTTPClientEnterprise",
                     "sizes": [{
-                            "flash_bytes": 1063491,
+                            "flash_bytes": 1063507,
                             "flash_percentage": 33,
                             "ram_bytes": 46736,
                             "ram_percentage": 14

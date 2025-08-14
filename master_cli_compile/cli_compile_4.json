@@ -475,7 +475,7 @@
                     },
 {"name": "Ethernet/examples/ETH_WIFI_BRIDGE",
                     "sizes": [{
-                            "flash_bytes": 947578,
+                            "flash_bytes": 947586,
                             "flash_percentage": 72,
                             "ram_bytes": 39104,
                             "ram_percentage": 11
