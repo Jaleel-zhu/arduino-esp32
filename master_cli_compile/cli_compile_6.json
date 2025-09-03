@@ -270,7 +270,7 @@
                     },
 {"name": "HTTPUpdateServer/examples/WebUpdater",
                     "sizes": [{
-                            "flash_bytes": 986947,
+                            "flash_bytes": 986963,
                             "flash_percentage": 75,
                             "ram_bytes": 47580,
                             "ram_percentage": 14
