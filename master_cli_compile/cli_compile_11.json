@@ -286,7 +286,7 @@
                     },
 {"name": "libraries/WebServer/examples/HelloServer",
                     "sizes": [{
-                            "flash_bytes": 968931,
+                            "flash_bytes": 968915,
                             "flash_percentage": 73,
                             "ram_bytes": 47308,
                             "ram_percentage": 14
@@ -403,7 +403,7 @@
                     },
 {"name": "libraries/Update/examples/OTAWebUpdater",
                     "sizes": [{
-                            "flash_bytes": 947006,
+                            "flash_bytes": 947014,
                             "flash_percentage": 72,
                             "ram_bytes": 42872,
                             "ram_percentage": 13

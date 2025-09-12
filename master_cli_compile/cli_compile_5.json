@@ -334,7 +334,7 @@
                     },
 {"name": "libraries/HTTPClient/examples/CustomHeaders",
                     "sizes": [{
-                            "flash_bytes": 1008235,
+                            "flash_bytes": 1008251,
                             "flash_percentage": 76,
                             "ram_bytes": 45104,
                             "ram_percentage": 13

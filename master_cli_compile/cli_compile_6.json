@@ -951,7 +951,7 @@
                     },
 {"name": "libraries/HTTPClient/examples/ReuseConnection",
                     "sizes": [{
-                            "flash_bytes": 1055343,
+                            "flash_bytes": 1055327,
                             "flash_percentage": 80,
                             "ram_bytes": 46800,
                             "ram_percentage": 14
