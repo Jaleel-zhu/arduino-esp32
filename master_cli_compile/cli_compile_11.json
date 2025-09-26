@@ -403,7 +403,7 @@
                     },
 {"name": "libraries/Update/examples/OTAWebUpdater",
                     "sizes": [{
-                            "flash_bytes": 947086,
+                            "flash_bytes": 947094,
                             "flash_percentage": 72,
                             "ram_bytes": 42864,
                             "ram_percentage": 13
@@ -419,7 +419,7 @@
                     },
 {"name": "libraries/WebServer/examples/AdvancedWebServer",
                     "sizes": [{
-                            "flash_bytes": 932434,
+                            "flash_bytes": 932442,
                             "flash_percentage": 71,
                             "ram_bytes": 42664,
                             "ram_percentage": 13
@@ -443,7 +443,7 @@
                     },
 {"name": "libraries/WebServer/examples/HelloServer",
                     "sizes": [{
-                            "flash_bytes": 930926,
+                            "flash_bytes": 930934,
                             "flash_percentage": 71,
                             "ram_bytes": 42664,
                             "ram_percentage": 13
