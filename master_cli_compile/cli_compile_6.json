@@ -419,7 +419,7 @@
                     },
 {"name": "libraries/Insights/examples/DiagnosticsSmokeTest",
                     "sizes": [{
-                            "flash_bytes": 980034,
+                            "flash_bytes": 980026,
                             "flash_percentage": 74,
                             "ram_bytes": 42028,
                             "ram_percentage": 12
@@ -467,7 +467,7 @@
                     },
 {"name": "libraries/Matter/examples/MatterComposedLights",
                     "sizes": [{
-                            "flash_bytes": 1673138,
+                            "flash_bytes": 1673146,
                             "flash_percentage": 53,
                             "ram_bytes": 92492,
                             "ram_percentage": 28

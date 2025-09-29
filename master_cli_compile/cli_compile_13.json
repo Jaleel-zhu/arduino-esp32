@@ -443,7 +443,7 @@
                     },
 {"name": "libraries/WiFi/examples/WiFiScan",
                     "sizes": [{
-                            "flash_bytes": 838618,
+                            "flash_bytes": 838610,
                             "flash_percentage": 63,
                             "ram_bytes": 38588,
                             "ram_percentage": 11
