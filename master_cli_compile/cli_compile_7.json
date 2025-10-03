@@ -427,7 +427,7 @@
                     },
 {"name": "libraries/Matter/examples/MatterOnIdentify",
                     "sizes": [{
-                            "flash_bytes": 1667906,
+                            "flash_bytes": 1667898,
                             "flash_percentage": 53,
                             "ram_bytes": 92424,
                             "ram_percentage": 28
