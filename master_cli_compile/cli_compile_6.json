@@ -358,7 +358,7 @@
                     },
 {"name": "libraries/Matter/examples/MatterColorLight",
                     "sizes": [{
-                            "flash_bytes": 1884219,
+                            "flash_bytes": 1884235,
                             "flash_percentage": 59,
                             "ram_bytes": 113344,
                             "ram_percentage": 34
