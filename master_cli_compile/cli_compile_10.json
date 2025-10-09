@@ -507,7 +507,7 @@
                     },
 {"name": "libraries/WebServer/examples/HttpAdvancedAuth",
                     "sizes": [{
-                            "flash_bytes": 937766,
+                            "flash_bytes": 937758,
                             "flash_percentage": 71,
                             "ram_bytes": 44984,
                             "ram_percentage": 13
@@ -975,7 +975,7 @@
                     },
 {"name": "libraries/Update/examples/OTAWebUpdater",
                     "sizes": [{
-                            "flash_bytes": 992035,
+                            "flash_bytes": 992019,
                             "flash_percentage": 75,
                             "ram_bytes": 47816,
                             "ram_percentage": 14
