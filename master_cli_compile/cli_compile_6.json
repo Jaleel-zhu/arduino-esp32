@@ -443,7 +443,7 @@
                     },
 {"name": "libraries/Matter/examples/MatterDimmableLight",
                     "sizes": [{
-                            "flash_bytes": 1657926,
+                            "flash_bytes": 1657934,
                             "flash_percentage": 52,
                             "ram_bytes": 92448,
                             "ram_percentage": 28
@@ -451,7 +451,7 @@
                     },
 {"name": "libraries/Matter/examples/MatterEnhancedColorLight",
                     "sizes": [{
-                            "flash_bytes": 1679458,
+                            "flash_bytes": 1679450,
                             "flash_percentage": 53,
                             "ram_bytes": 92488,
                             "ram_percentage": 28
@@ -959,7 +959,7 @@
                     },
 {"name": "libraries/HTTPClient/examples/HTTPClientEnterprise",
                     "sizes": [{
-                            "flash_bytes": 1095187,
+                            "flash_bytes": 1095183,
                             "flash_percentage": 34,
                             "ram_bytes": 48100,
                             "ram_percentage": 14
