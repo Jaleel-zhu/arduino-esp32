@@ -286,7 +286,7 @@
                     },
 {"name": "libraries/WebServer/examples/FSBrowser",
                     "sizes": [{
-                            "flash_bytes": 976979,
+                            "flash_bytes": 976963,
                             "flash_percentage": 74,
                             "ram_bytes": 47584,
                             "ram_percentage": 14
@@ -435,7 +435,7 @@
                     },
 {"name": "libraries/WebServer/examples/MultiHomedServers",
                     "sizes": [{
-                            "flash_bytes": 916878,
+                            "flash_bytes": 916886,
                             "flash_percentage": 69,
                             "ram_bytes": 42312,
                             "ram_percentage": 12
