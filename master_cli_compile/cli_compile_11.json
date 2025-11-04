@@ -286,7 +286,7 @@
                     },
 {"name": "libraries/WebServer/examples/FSBrowser",
                     "sizes": [{
-                            "flash_bytes": 976963,
+                            "flash_bytes": 976979,
                             "flash_percentage": 74,
                             "ram_bytes": 47584,
                             "ram_percentage": 14

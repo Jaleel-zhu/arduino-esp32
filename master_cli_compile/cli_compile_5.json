@@ -427,7 +427,7 @@
                     },
 {"name": "libraries/HTTPUpdate/examples/httpUpdateSPIFFS",
                     "sizes": [{
-                            "flash_bytes": 905630,
+                            "flash_bytes": 905638,
                             "flash_percentage": 69,
                             "ram_bytes": 40528,
                             "ram_percentage": 12
@@ -435,7 +435,7 @@
                     },
 {"name": "libraries/HTTPUpdate/examples/httpUpdateSecure",
                     "sizes": [{
-                            "flash_bytes": 1007054,
+                            "flash_bytes": 1007046,
                             "flash_percentage": 32,
                             "ram_bytes": 41056,
                             "ram_percentage": 12
@@ -515,7 +515,7 @@
                     },
 {"name": "libraries/Insights/examples/MinimalDiagnostics",
                     "sizes": [{
-                            "flash_bytes": 962874,
+                            "flash_bytes": 962882,
                             "flash_percentage": 73,
                             "ram_bytes": 41908,
                             "ram_percentage": 12
