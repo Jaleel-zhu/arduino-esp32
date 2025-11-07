@@ -435,7 +435,7 @@
                     },
 {"name": "libraries/WebServer/examples/MultiHomedServers",
                     "sizes": [{
-                            "flash_bytes": 917222,
+                            "flash_bytes": 917214,
                             "flash_percentage": 69,
                             "ram_bytes": 42312,
                             "ram_percentage": 12
@@ -874,9 +874,9 @@
                     },
 {"name": "libraries/Zigbee/examples/Zigbee_Contact_Switch",
                     "sizes": [{
-                            "flash_bytes": 571420,
-                            "flash_percentage": 43,
-                            "ram_bytes": 28524,
+                            "flash_bytes": 581878,
+                            "flash_percentage": 44,
+                            "ram_bytes": 28556,
                             "ram_percentage": 8
                             }]
                     },

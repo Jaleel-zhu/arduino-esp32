@@ -132,9 +132,9 @@
                     },
 {"name": "libraries/Zigbee/examples/Zigbee_Contact_Switch",
                     "sizes": [{
-                            "flash_bytes": 629544,
+                            "flash_bytes": 631706,
                             "flash_percentage": 48,
-                            "ram_bytes": 33916,
+                            "ram_bytes": 33924,
                             "ram_percentage": 10
                             }]
                     }
@@ -903,7 +903,7 @@
                     },
 {"name": "libraries/WiFi/examples/FTM/FTM_Responder",
                     "sizes": [{
-                            "flash_bytes": 897435,
+                            "flash_bytes": 897451,
                             "flash_percentage": 68,
                             "ram_bytes": 43452,
                             "ram_percentage": 13
