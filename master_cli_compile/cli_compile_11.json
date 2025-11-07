@@ -435,7 +435,7 @@
                     },
 {"name": "libraries/WebServer/examples/MultiHomedServers",
                     "sizes": [{
-                            "flash_bytes": 917214,
+                            "flash_bytes": 917222,
                             "flash_percentage": 69,
                             "ram_bytes": 42312,
                             "ram_percentage": 12
