@@ -427,7 +427,7 @@
                     },
 {"name": "libraries/WebServer/examples/Middleware",
                     "sizes": [{
-                            "flash_bytes": 887422,
+                            "flash_bytes": 887430,
                             "flash_percentage": 67,
                             "ram_bytes": 41020,
                             "ram_percentage": 12
