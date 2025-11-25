@@ -435,7 +435,7 @@
                     },
 {"name": "libraries/WiFi/examples/WiFiClientEvents",
                     "sizes": [{
-                            "flash_bytes": 823358,
+                            "flash_bytes": 823366,
                             "flash_percentage": 62,
                             "ram_bytes": 39172,
                             "ram_percentage": 11
@@ -943,7 +943,7 @@
                     },
 {"name": "libraries/WiFi/examples/WiFiClient",
                     "sizes": [{
-                            "flash_bytes": 912507,
+                            "flash_bytes": 912491,
                             "flash_percentage": 69,
                             "ram_bytes": 45372,
                             "ram_percentage": 13
