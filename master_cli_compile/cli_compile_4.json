@@ -507,7 +507,7 @@
                     },
 {"name": "libraries/HTTPClient/examples/BasicHttpsClient",
                     "sizes": [{
-                            "flash_bytes": 977026,
+                            "flash_bytes": 977034,
                             "flash_percentage": 74,
                             "ram_bytes": 41148,
                             "ram_percentage": 12

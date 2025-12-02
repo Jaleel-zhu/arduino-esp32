@@ -374,7 +374,7 @@
                     },
 {"name": "libraries/HTTPClient/examples/StreamHttpClient",
                     "sizes": [{
-                            "flash_bytes": 993387,
+                            "flash_bytes": 993403,
                             "flash_percentage": 75,
                             "ram_bytes": 45188,
                             "ram_percentage": 13
@@ -523,7 +523,7 @@
                     },
 {"name": "libraries/LittleFS/examples/LITTLEFS_test",
                     "sizes": [{
-                            "flash_bytes": 294910,
+                            "flash_bytes": 294930,
                             "flash_percentage": 22,
                             "ram_bytes": 15984,
                             "ram_percentage": 4
