@@ -483,7 +483,7 @@
                     },
 {"name": "libraries/Matter/examples/MatterLambdaSingleCallbackManyEPs",
                     "sizes": [{
-                            "flash_bytes": 1637178,
+                            "flash_bytes": 1637186,
                             "flash_percentage": 52,
                             "ram_bytes": 93244,
                             "ram_percentage": 28
