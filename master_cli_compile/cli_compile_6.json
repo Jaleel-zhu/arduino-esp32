@@ -576,7 +576,7 @@
                     },
 {"name": "libraries/Matter/examples/MatterEvents",
                     "sizes": [{
-                            "flash_bytes": 1640526,
+                            "flash_bytes": 1640518,
                             "flash_percentage": 52,
                             "ram_bytes": 93052,
                             "ram_percentage": 28

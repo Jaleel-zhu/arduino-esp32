@@ -76,7 +76,7 @@
                     },
 {"name": "libraries/WiFi/examples/WiFiClient",
                     "sizes": [{
-                            "flash_bytes": 913819,
+                            "flash_bytes": 913803,
                             "flash_percentage": 69,
                             "ram_bytes": 45372,
                             "ram_percentage": 13
