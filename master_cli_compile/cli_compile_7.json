@@ -520,7 +520,7 @@
                     },
 {"name": "libraries/Matter/examples/MatterOnOffPlugin",
                     "sizes": [{
-                            "flash_bytes": 1659134,
+                            "flash_bytes": 1659126,
                             "flash_percentage": 52,
                             "ram_bytes": 93200,
                             "ram_percentage": 28
@@ -568,7 +568,7 @@
                     },
 {"name": "libraries/Matter/examples/MatterTemperatureControlledCabinet",
                     "sizes": [{
-                            "flash_bytes": 1637046,
+                            "flash_bytes": 1637054,
                             "flash_percentage": 52,
                             "ram_bytes": 93132,
                             "ram_percentage": 28
