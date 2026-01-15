@@ -108,7 +108,7 @@
                     },
 {"name": "libraries/PPP/examples/PPP_WIFI_BRIDGE",
                     "sizes": [{
-                            "flash_bytes": 977435,
+                            "flash_bytes": 977451,
                             "flash_percentage": 74,
                             "ram_bytes": 44244,
                             "ram_percentage": 13
@@ -512,7 +512,7 @@
                     },
 {"name": "libraries/SD/examples/SD_time",
                     "sizes": [{
-                            "flash_bytes": 905546,
+                            "flash_bytes": 905554,
                             "flash_percentage": 69,
                             "ram_bytes": 40856,
                             "ram_percentage": 12
