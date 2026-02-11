@@ -20,7 +20,7 @@
                     },
 {"name": "libraries/WebServer/examples/WebServer",
                     "sizes": [{
-                            "flash_bytes": 1043531,
+                            "flash_bytes": 1043515,
                             "flash_percentage": 79,
                             "ram_bytes": 46464,
                             "ram_percentage": 14
@@ -592,7 +592,7 @@
                     },
 {"name": "libraries/Zigbee/examples/Zigbee_Electrical_AC_Sensor",
                     "sizes": [{
-                            "flash_bytes": 703504,
+                            "flash_bytes": 703540,
                             "flash_percentage": 53,
                             "ram_bytes": 32216,
                             "ram_percentage": 9
@@ -600,7 +600,7 @@
                     },
 {"name": "libraries/Zigbee/examples/Zigbee_Electrical_AC_Sensor_MultiPhase",
                     "sizes": [{
-                            "flash_bytes": 703350,
+                            "flash_bytes": 703386,
                             "flash_percentage": 53,
                             "ram_bytes": 32216,
                             "ram_percentage": 9
@@ -616,7 +616,7 @@
                     },
 {"name": "libraries/Zigbee/examples/Zigbee_Fan_Control",
                     "sizes": [{
-                            "flash_bytes": 706930,
+                            "flash_bytes": 706946,
                             "flash_percentage": 53,
                             "ram_bytes": 32656,
                             "ram_percentage": 9
@@ -890,7 +890,7 @@
                     },
 {"name": "libraries/WiFi/examples/WiFiAccessPoint",
                     "sizes": [{
-                            "flash_bytes": 857626,
+                            "flash_bytes": 857634,
                             "flash_percentage": 65,
                             "ram_bytes": 40600,
                             "ram_percentage": 12
@@ -1047,7 +1047,7 @@
                     },
 {"name": "libraries/WiFi/examples/WiFiClientBasic",
                     "sizes": [{
-                            "flash_bytes": 870095,
+                            "flash_bytes": 870111,
                             "flash_percentage": 66,
                             "ram_bytes": 44556,
                             "ram_percentage": 13
