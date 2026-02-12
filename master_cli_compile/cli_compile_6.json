@@ -1031,7 +1031,7 @@
                     },
 {"name": "libraries/Matter/examples/MatterCommissionTest",
                     "sizes": [{
-                            "flash_bytes": 1833702,
+                            "flash_bytes": 1833718,
                             "flash_percentage": 58,
                             "ram_bytes": 108564,
                             "ram_percentage": 33
