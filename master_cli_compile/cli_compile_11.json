@@ -834,7 +834,7 @@
                     },
 {"name": "libraries/WebServer/examples/AdvancedWebServer",
                     "sizes": [{
-                            "flash_bytes": 917408,
+                            "flash_bytes": 917400,
                             "flash_percentage": 69,
                             "ram_bytes": 44492,
                             "ram_percentage": 13
@@ -983,7 +983,7 @@
                     },
 {"name": "libraries/WebServer/examples/AdvancedWebServer",
                     "sizes": [{
-                            "flash_bytes": 955607,
+                            "flash_bytes": 955591,
                             "flash_percentage": 72,
                             "ram_bytes": 48576,
                             "ram_percentage": 14
