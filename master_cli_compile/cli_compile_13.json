@@ -858,7 +858,7 @@
                     },
 {"name": "libraries/WiFi/examples/WiFiScanAsync",
                     "sizes": [{
-                            "flash_bytes": 823963,
+                            "flash_bytes": 823955,
                             "flash_percentage": 62,
                             "ram_bytes": 40268,
                             "ram_percentage": 12
