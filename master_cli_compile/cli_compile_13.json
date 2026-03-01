@@ -906,7 +906,7 @@
                     },
 {"name": "libraries/WiFi/examples/WiFiUDPClient",
                     "sizes": [{
-                            "flash_bytes": 832807,
+                            "flash_bytes": 832815,
                             "flash_percentage": 63,
                             "ram_bytes": 41932,
                             "ram_percentage": 12

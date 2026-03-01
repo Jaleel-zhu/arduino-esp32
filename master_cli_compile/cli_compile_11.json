@@ -124,7 +124,7 @@
                     },
 {"name": "libraries/WebServer/examples/PathArgServer",
                     "sizes": [{
-                            "flash_bytes": 1275041,
+                            "flash_bytes": 1275057,
                             "flash_percentage": 40,
                             "ram_bytes": 55756,
                             "ram_percentage": 17
@@ -866,7 +866,7 @@
                     },
 {"name": "libraries/WebServer/examples/Filters",
                     "sizes": [{
-                            "flash_bytes": 919784,
+                            "flash_bytes": 919792,
                             "flash_percentage": 70,
                             "ram_bytes": 44596,
                             "ram_percentage": 13
