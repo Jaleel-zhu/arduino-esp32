@@ -898,7 +898,7 @@
                     },
 {"name": "libraries/Matter/examples/MatterSmartButton",
                     "sizes": [{
-                            "flash_bytes": 1642103,
+                            "flash_bytes": 1642095,
                             "flash_percentage": 52,
                             "ram_bytes": 94292,
                             "ram_percentage": 28
