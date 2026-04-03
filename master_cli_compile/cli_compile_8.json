@@ -842,7 +842,7 @@
                     },
 {"name": "libraries/Matter/examples/MatterWindowCovering",
                     "sizes": [{
-                            "flash_bytes": 1669540,
+                            "flash_bytes": 1669548,
                             "flash_percentage": 53,
                             "ram_bytes": 94620,
                             "ram_percentage": 28
@@ -1055,7 +1055,7 @@
                     },
 {"name": "libraries/NetworkClientSecure/examples/WiFiClientSecure",
                     "sizes": [{
-                            "flash_bytes": 961122,
+                            "flash_bytes": 961106,
                             "flash_percentage": 30,
                             "ram_bytes": 46224,
                             "ram_percentage": 14
