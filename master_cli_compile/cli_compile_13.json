@@ -1015,7 +1015,7 @@
                     },
 {"name": "libraries/WiFi/examples/WiFiScan",
                     "sizes": [{
-                            "flash_bytes": 856142,
+                            "flash_bytes": 856158,
                             "flash_percentage": 65,
                             "ram_bytes": 44368,
                             "ram_percentage": 13
