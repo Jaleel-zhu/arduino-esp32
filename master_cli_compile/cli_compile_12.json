@@ -12,7 +12,7 @@
                     },
 {"name": "libraries/WiFi/examples/FTM/FTM_Initiator",
                     "sizes": [{
-                            "flash_bytes": 900868,
+                            "flash_bytes": 900852,
                             "flash_percentage": 68,
                             "ram_bytes": 45344,
                             "ram_percentage": 13
