@@ -906,7 +906,7 @@
                     },
 {"name": "libraries/WiFi/examples/WiFiSmartConfig",
                     "sizes": [{
-                            "flash_bytes": 859519,
+                            "flash_bytes": 859527,
                             "flash_percentage": 65,
                             "ram_bytes": 40596,
                             "ram_percentage": 12
@@ -1023,7 +1023,7 @@
                     },
 {"name": "libraries/WiFi/examples/WiFiScanDualAntenna",
                     "sizes": [{
-                            "flash_bytes": 859678,
+                            "flash_bytes": 859694,
                             "flash_percentage": 65,
                             "ram_bytes": 44408,
                             "ram_percentage": 13

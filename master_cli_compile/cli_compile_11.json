@@ -946,7 +946,7 @@
                     },
 {"name": "libraries/WebServer/examples/HttpBasicAuthSHA1orBearerToken",
                     "sizes": [{
-                            "flash_bytes": 951408,
+                            "flash_bytes": 951400,
                             "flash_percentage": 72,
                             "ram_bytes": 46884,
                             "ram_percentage": 14
