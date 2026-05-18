@@ -890,7 +890,7 @@
                 },
 {"name": "libraries/WiFi/examples/WiFiScanAsync",
                 "sizes": [{
-                        "flash_bytes": 824187,
+                        "flash_bytes": 824179,
                         "flash_percentage": 63,
                         "ram_bytes": 40276,
                         "ram_percentage": 12
@@ -914,7 +914,7 @@
                 },
 {"name": "libraries/WiFi/examples/WiFiSmartConfig",
                 "sizes": [{
-                        "flash_bytes": 859239,
+                        "flash_bytes": 859231,
                         "flash_percentage": 66,
                         "ram_bytes": 40596,
                         "ram_percentage": 12
@@ -922,7 +922,7 @@
                 },
 {"name": "libraries/WiFi/examples/WiFiTelnetToSerial",
                 "sizes": [{
-                        "flash_bytes": 939479,
+                        "flash_bytes": 939471,
                         "flash_percentage": 72,
                         "ram_bytes": 42340,
                         "ram_percentage": 13
