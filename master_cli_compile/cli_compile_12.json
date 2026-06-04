@@ -1023,7 +1023,7 @@
                 },
 {"name": "libraries/WebServer/examples/SDWebServer",
                 "sizes": [{
-                        "flash_bytes": 1018943,
+                        "flash_bytes": 1018927,
                         "flash_percentage": 78,
                         "ram_bytes": 49016,
                         "ram_percentage": 15
@@ -1055,7 +1055,7 @@
                 },
 {"name": "libraries/WebServer/examples/WebUpdate",
                 "sizes": [{
-                        "flash_bytes": 969283,
+                        "flash_bytes": 969267,
                         "flash_percentage": 74,
                         "ram_bytes": 48912,
                         "ram_percentage": 15
@@ -1111,7 +1111,7 @@
                 },
 {"name": "libraries/WiFi/examples/WiFiClient",
                 "sizes": [{
-                        "flash_bytes": 871062,
+                        "flash_bytes": 871046,
                         "flash_percentage": 66,
                         "ram_bytes": 45688,
                         "ram_percentage": 14
@@ -1119,7 +1119,7 @@
                 },
 {"name": "libraries/WiFi/examples/WiFiClientBasic",
                 "sizes": [{
-                        "flash_bytes": 967138,
+                        "flash_bytes": 967122,
                         "flash_percentage": 74,
                         "ram_bytes": 46320,
                         "ram_percentage": 14
