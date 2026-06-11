@@ -914,7 +914,7 @@
                 },
 {"name": "libraries/NetworkClientSecure/examples/WiFiClientSecure",
                 "sizes": [{
-                        "flash_bytes": 930627,
+                        "flash_bytes": 930635,
                         "flash_percentage": 30,
                         "ram_bytes": 42140,
                         "ram_percentage": 13
