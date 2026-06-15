@@ -44,7 +44,7 @@
                 },
 {"name": "libraries/Matter/examples/MatterTemperatureLight",
                 "sizes": [{
-                        "flash_bytes": 1756054,
+                        "flash_bytes": 1756038,
                         "flash_percentage": 56,
                         "ram_bytes": 107352,
                         "ram_percentage": 33
@@ -84,7 +84,7 @@
                 },
 {"name": "libraries/Matter/examples/MatterWindowCovering",
                 "sizes": [{
-                        "flash_bytes": 1743206,
+                        "flash_bytes": 1743190,
                         "flash_percentage": 55,
                         "ram_bytes": 107520,
                         "ram_percentage": 33
