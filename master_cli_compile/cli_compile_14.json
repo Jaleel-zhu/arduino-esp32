@@ -759,7 +759,7 @@
                 },
 {"name": "libraries/Zigbee/examples",
                 "sizes": [{
-                        "flash_bytes": 1233830,
+                        "flash_bytes": 1233846,
                         "flash_percentage": 36,
                         "ram_bytes": 61912,
                         "ram_percentage": 19
