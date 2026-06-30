@@ -132,9 +132,9 @@
                 },
 {"name": "libraries/HTTPClient/examples/HTTPClientEnterprise",
                 "sizes": [{
-                        "flash_bytes": 1101276,
-                        "flash_percentage": 35,
-                        "ram_bytes": 50008,
+                        "flash_bytes": 1075024,
+                        "flash_percentage": 34,
+                        "ram_bytes": 48624,
                         "ram_percentage": 15
                         }]
                 },
@@ -185,9 +185,9 @@
                 },
 {"name": "libraries/HTTPClient/examples/HTTPClientEnterprise",
                 "sizes": [{
-                        "flash_bytes": 1139399,
-                        "flash_percentage": 36,
-                        "ram_bytes": 37640,
+                        "flash_bytes": 1111663,
+                        "flash_percentage": 35,
+                        "ram_bytes": 36960,
                         "ram_percentage": 11
                         }]
                 },
@@ -1007,10 +1007,10 @@
                 "sketches": [
 {"name": "libraries/HTTPClient/examples/HTTPClientEnterprise",
                 "sizes": [{
-                        "flash_bytes": 1054718,
-                        "flash_percentage": 34,
-                        "ram_bytes": 47944,
-                        "ram_percentage": 15
+                        "flash_bytes": 1027882,
+                        "flash_percentage": 33,
+                        "ram_bytes": 46504,
+                        "ram_percentage": 14
                         }]
                 },
 {"name": "libraries/HTTPClient/examples/ReuseConnection",

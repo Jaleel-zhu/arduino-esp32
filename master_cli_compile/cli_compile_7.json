@@ -438,10 +438,10 @@
                 },
 {"name": "libraries/NetworkClientSecure/examples/WiFiClientSecureEnterprise",
                 "sizes": [{
-                        "flash_bytes": 1172479,
-                        "flash_percentage": 37,
-                        "ram_bytes": 50916,
-                        "ram_percentage": 16
+                        "flash_bytes": 1143109,
+                        "flash_percentage": 36,
+                        "ram_bytes": 49572,
+                        "ram_percentage": 15
                         }]
                 },
 {"name": "libraries/NetworkClientSecure/examples/WiFiClientSecureProtocolUpgrade",

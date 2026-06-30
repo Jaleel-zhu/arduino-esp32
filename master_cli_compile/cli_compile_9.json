@@ -124,10 +124,10 @@
                 },
 {"name": "libraries/NetworkClientSecure/examples/WiFiClientSecureEnterprise",
                 "sizes": [{
-                        "flash_bytes": 1067188,
-                        "flash_percentage": 34,
-                        "ram_bytes": 48752,
-                        "ram_percentage": 15
+                        "flash_bytes": 1040720,
+                        "flash_percentage": 33,
+                        "ram_bytes": 47368,
+                        "ram_percentage": 14
                         }]
                 },
 {"name": "libraries/NetworkClientSecure/examples/WiFiClientSecureProtocolUpgrade",
@@ -201,9 +201,9 @@
                 },
 {"name": "libraries/NetworkClientSecure/examples/WiFiClientSecureEnterprise",
                 "sizes": [{
-                        "flash_bytes": 1103751,
-                        "flash_percentage": 35,
-                        "ram_bytes": 37632,
+                        "flash_bytes": 1076023,
+                        "flash_percentage": 34,
+                        "ram_bytes": 36936,
                         "ram_percentage": 11
                         }]
                 },
