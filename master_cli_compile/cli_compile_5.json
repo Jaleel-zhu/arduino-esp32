@@ -1039,7 +1039,7 @@
                 },
 {"name": "libraries/ESP_NOW/examples/ESP_NOW_Broadcast_Slave",
                 "sizes": [{
-                        "flash_bytes": 869910,
+                        "flash_bytes": 869894,
                         "flash_percentage": 66,
                         "ram_bytes": 44632,
                         "ram_percentage": 14
@@ -1127,7 +1127,7 @@
                 },
 {"name": "libraries/HTTPClient/examples/Authorization",
                 "sizes": [{
-                        "flash_bytes": 1029586,
+                        "flash_bytes": 1029570,
                         "flash_percentage": 79,
                         "ram_bytes": 46544,
                         "ram_percentage": 14
@@ -1135,7 +1135,7 @@
                 },
 {"name": "libraries/HTTPClient/examples/BasicHttpClient",
                 "sizes": [{
-                        "flash_bytes": 1029566,
+                        "flash_bytes": 1029550,
                         "flash_percentage": 79,
                         "ram_bytes": 46544,
                         "ram_percentage": 14
