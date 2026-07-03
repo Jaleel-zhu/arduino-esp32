@@ -866,7 +866,7 @@
                 "sketches": [
 {"name": "libraries/Matter/examples/MatterEvents",
                 "sizes": [{
-                        "flash_bytes": 1679151,
+                        "flash_bytes": 1679159,
                         "flash_percentage": 53,
                         "ram_bytes": 88724,
                         "ram_percentage": 27
@@ -946,7 +946,7 @@
                 },
 {"name": "libraries/Matter/examples/MatterOnOffPlugin",
                 "sizes": [{
-                        "flash_bytes": 1700408,
+                        "flash_bytes": 1700416,
                         "flash_percentage": 54,
                         "ram_bytes": 88948,
                         "ram_percentage": 27
@@ -954,7 +954,7 @@
                 },
 {"name": "libraries/Matter/examples/MatterPressureSensor",
                 "sizes": [{
-                        "flash_bytes": 1678307,
+                        "flash_bytes": 1678315,
                         "flash_percentage": 53,
                         "ram_bytes": 88740,
                         "ram_percentage": 27
@@ -970,7 +970,7 @@
                 },
 {"name": "libraries/Matter/examples/MatterSimpleBlinds",
                 "sizes": [{
-                        "flash_bytes": 1683943,
+                        "flash_bytes": 1683951,
                         "flash_percentage": 54,
                         "ram_bytes": 88820,
                         "ram_percentage": 27
@@ -978,7 +978,7 @@
                 },
 {"name": "libraries/Matter/examples/MatterSmartButton",
                 "sizes": [{
-                        "flash_bytes": 1687415,
+                        "flash_bytes": 1687423,
                         "flash_percentage": 54,
                         "ram_bytes": 88764,
                         "ram_percentage": 27
@@ -986,7 +986,7 @@
                 },
 {"name": "libraries/Matter/examples/MatterStatus",
                 "sizes": [{
-                        "flash_bytes": 1695272,
+                        "flash_bytes": 1695280,
                         "flash_percentage": 54,
                         "ram_bytes": 88932,
                         "ram_percentage": 27
@@ -994,7 +994,7 @@
                 },
 {"name": "libraries/Matter/examples/MatterTemperatureControlledCabinet",
                 "sizes": [{
-                        "flash_bytes": 1678819,
+                        "flash_bytes": 1678827,
                         "flash_percentage": 53,
                         "ram_bytes": 88788,
                         "ram_percentage": 27
