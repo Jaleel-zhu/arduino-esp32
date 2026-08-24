@@ -1063,7 +1063,7 @@
                 },
 {"name": "libraries/NetworkClientSecure/examples/WiFiClientShowPeerCredentials",
                 "sizes": [{
-                        "flash_bytes": 989434,
+                        "flash_bytes": 989418,
                         "flash_percentage": 75,
                         "ram_bytes": 46484,
                         "ram_percentage": 14
