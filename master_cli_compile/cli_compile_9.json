@@ -930,7 +930,7 @@
                 "sketches": [
 {"name": "libraries/SD/examples/SD_time",
                 "sizes": [{
-                        "flash_bytes": 894868,
+                        "flash_bytes": 894876,
                         "flash_percentage": 68,
                         "ram_bytes": 42428,
                         "ram_percentage": 13
