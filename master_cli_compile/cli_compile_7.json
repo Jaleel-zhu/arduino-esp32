@@ -4,9 +4,9 @@
                 "sketches": [
 {"name": "libraries/HTTPUpdateServer/examples/WebUpdater",
                 "sizes": [{
-                        "flash_bytes": 986184,
-                        "flash_percentage": 75,
-                        "ram_bytes": 49896,
+                        "flash_bytes": 994008,
+                        "flash_percentage": 76,
+                        "ram_bytes": 49928,
                         "ram_percentage": 15
                         }]
                 },
@@ -861,9 +861,9 @@
                 },
 {"name": "libraries/HTTPUpdateServer/examples/WebUpdater",
                 "sizes": [{
-                        "flash_bytes": 927870,
-                        "flash_percentage": 71,
-                        "ram_bytes": 34928,
+                        "flash_bytes": 937822,
+                        "flash_percentage": 72,
+                        "ram_bytes": 34960,
                         "ram_percentage": 11
                         }]
                 },
@@ -1103,7 +1103,7 @@
                 },
 {"name": "libraries/Matter/examples/Control/MatterSmartButton",
                 "sizes": [{
-                        "flash_bytes": 1695842,
+                        "flash_bytes": 1695826,
                         "flash_percentage": 54,
                         "ram_bytes": 106680,
                         "ram_percentage": 33
@@ -1167,7 +1167,7 @@
                 },
 {"name": "libraries/Matter/examples/GettingStarted/MatterMinimum",
                 "sizes": [{
-                        "flash_bytes": 1709819,
+                        "flash_bytes": 1709803,
                         "flash_percentage": 54,
                         "ram_bytes": 106864,
                         "ram_percentage": 33
